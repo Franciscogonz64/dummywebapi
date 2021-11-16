@@ -1,4 +1,4 @@
 Run the following commands:
 
 docker build -t golangwebapi .
-docker run -p 8080:8080 -dit golangwebapi
+docker run -p 8080:8080 -tid golangwebapi
